@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "InK Styles Tattoo",
+  title: "InK Steellers Tattoo",
   description: "Where the skin meets art",
 };
 

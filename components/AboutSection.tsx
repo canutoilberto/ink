@@ -128,7 +128,7 @@ export default function AboutSection() {
               you&apos;ll wear with pride for a lifetime.
             </p>
             <a
-              href="#"
+              href="#artists"
               className="inline-block mt-8 bg-white text-black px-8 py-3 rounded-full text-lg font-bold hover:bg-opacity-90 transition-colors font-sans"
             >
               Meet Our Artists
